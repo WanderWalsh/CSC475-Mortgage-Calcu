@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mortgage Calculator</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="year">15</string>
+    <string name="total">Total</string>
+    <string name="down_payment">Down Payment</string>
+    <string name="interest_rate">Interest Rate</string>
+    <string name="years">Years</string>
+</resources>
